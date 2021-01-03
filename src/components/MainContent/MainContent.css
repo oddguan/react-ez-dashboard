@@ -1,0 +1,17 @@
+.dashboard-container {
+  width: calc(100vw - 260px);
+}
+
+.dashboard-header {
+  display: flex;
+  min-height: 50px;
+}
+
+.dashboard-main {
+  margin: 20px 0;
+}
+
+.dashboard-footer {
+  display: flex;
+  min-height: 50px;
+}
